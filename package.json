@@ -1,0 +1,38 @@
+{
+  "name"            : "cmyk-rgb",
+  "version"         : "1.0.0",
+  "description"     : "Convert CMYK color to RGB",
+  "license"         : "MIT",
+  "dependencies"    : {
+    "node-ratify" : "1.0.5"
+  },
+  "repository"      : {
+    "type" : "git",
+    "url"  : "https://github.com/luthraG/cmyk-rgb.git"
+  },
+  "bugs"            : {
+    "url" : "https://github.com/luthraG/cmyk-rgb/issues"
+  },
+  "scripts"         : {
+    "test": "node test.js"
+  },
+  "author"          : {
+    "name"  : "Gaurav Luthra",
+    "email" : "luthra.zenith@gmail.com"
+  },
+  "engines"         : {
+    "node": ">=0.10.0"
+  },
+  "files"           : [
+    "index.js"
+  ],
+  "keywords"        : [
+    "cmyk",
+    "rgb",
+    "color",
+    "colour",
+    "convert",
+    "conversion",
+    "converter"
+  ]
+}
